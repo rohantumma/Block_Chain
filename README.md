@@ -8,3 +8,5 @@ DAPP:
 Same like twitter, build on top of BlockChain
 https://steemit.com/trending/hive-148497
  
+# Extra Read
+https://www.superdatascience.com/pages/blockchain
